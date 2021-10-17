@@ -1,0 +1,150 @@
+
+
+
+
+.top_header{
+    height: 60px;
+    background-color:#003344;
+       
+}
+
+.top_header ul li {
+    float:right;
+    display:block;
+    text-transform: uppercase;
+    padding: 20px;
+    
+     
+}
+
+.logotipo{
+    padding: 10px;
+    margin-left: 250px;
+    
+}
+
+.menu{
+    color:#ccc;
+    text-decoration-line: none;
+    transition: color 0.3s linear;
+ 
+}
+
+.menu:hover{
+    color:white;
+}
+
+.menu_total{
+    margin-right: 50px;
+}
+
+.imagem_top{
+    background-image:url(../imagens/topo.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: center;
+    margin-bottom: 50px;
+  }
+
+  .portifolio{
+      width: 800px;
+      text-align:center;
+      margin-left: 20%;
+      
+  } 
+
+  .portifolio h1{
+      font-size: 42px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight:bolder;
+      color:#003344;
+  }
+
+  .portifolio p{
+      line-height: 1.7;
+      
+  }
+
+  .about {
+    background-image:url(../imagens/bg_detalhe.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+
+  .about h2{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 20%;
+    color:white;
+    padding: 20px 20px 20px 0px;
+
+    
+  }
+
+  .about p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 20%;
+    color:white;
+    width: 400px;
+  }
+
+  .galeria article{
+    
+    padding: 10px;
+    display:inline-block;
+    text-align: center;
+    
+  }
+
+  .galeria{
+    margin-left: 20%;
+    margin-top: 50px;
+    
+  }
+
+  .galeria_titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-transform:uppercase;
+    font-size: 22px;
+    color:#003344;
+  }
+
+  .galeria_texto{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color:slategray;
+     
+  }
+  
+  .galeria p{
+      line-height: 0;
+      padding: 3px;
+      
+  }
+      
+  .contato{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-transform:uppercase;
+    font-size: 22px;
+    color:#003344;
+    line-height: 0;
+    
+  }
+
+  .contato p{
+      line-height: 0.2;
+  }
+
+
+ 
